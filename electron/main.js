@@ -1,4 +1,5 @@
 const { app, BrowserWindow } = require("electron");
+const fs = require("fs");
 const path = require("path");
 
 if (require("electron-squirrel-startup")) {
@@ -28,8 +29,13 @@ function createWindow() {
   });
 
   if (!app.isPackaged) {
-    // Development
-    mainWindow.loadURL("http://localhost:5173");
+    const localBuild = path.join(__dirname, "../frontend/dist/index.html");
+
+    if (fs.existsSync(localBuild)) {
+      mainWindow.loadFile(localBuild);
+    } else {
+      mainWindow.loadURL("http://localhost:5173");
+    }
   } else {
     // Production / installed EXE
     mainWindow.loadFile(
