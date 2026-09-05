@@ -2,7 +2,11 @@ import { useState } from "react";
 import "./App.css";
 
 
-const API_URL = import.meta.env.VITE_API_URL || "https://brainstorming-chatbot.onrender.com";
+const API_URL = import.meta.env.VITE_API_URL || (
+  import.meta.env.PROD
+    ? "https://brainstorming-backend.onrender.com"
+    : "http://localhost:8000"
+);
 
 function App() {
 
@@ -101,16 +105,14 @@ function App() {
       // API REQUEST
       // -------------------------------------------------
 
-      const API_URL = import.meta.env.VITE_API_URL || "https://brainstorming-chatbot.onrender.com";
-
 const response = await fetch(`${API_URL}/chat`, {
   method: "POST",
   headers: {
     "Content-Type": "application/json",
   },
   body: JSON.stringify({
-    message: input,
-    history: messages,
+    message: text,
+    history: currentHistory,
   }),
 });
 

@@ -8,14 +8,17 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from openai import OpenAI
 
-from rag import retrieve_knowledge
+try:
+    from .rag import retrieve_knowledge
+except ImportError:
+    from rag import retrieve_knowledge
 
 
 # =========================================================
 # ENVIRONMENT
 # =========================================================
 
-load_dotenv()
+load_dotenv(os.path.join(os.path.dirname(__file__), ".env"))
 
 api_key = os.getenv("OPENAI_API_KEY")
 

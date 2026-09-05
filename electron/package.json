@@ -1,0 +1,25 @@
+{
+  "name": "brainstorm-ai-desktop",
+  "productName": "Brainstorm AI",
+  "version": "1.0.0",
+  "description": "Brainstorm AI Desktop Application",
+  "main": "main.js",
+  "author": "Ayush",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "build:frontend": "npm --prefix ../frontend install && npm --prefix ../frontend run build",
+    "prepare:package": "npm run build:frontend",
+    "package": "electron-forge package",
+    "make": "npm run prepare:package && electron-forge make"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^7.8.3",
+    "@electron-forge/maker-squirrel": "^7.8.3",
+    "electron": "^37.3.1",
+    "png-to-ico": "^3.0.2"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.1"
+  }
+}

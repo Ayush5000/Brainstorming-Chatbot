@@ -10,7 +10,7 @@ from openai import OpenAI
 # ENVIRONMENT
 # ==========================================
 
-load_dotenv()
+load_dotenv(os.path.join(os.path.dirname(__file__), ".env"))
 
 api_key = os.getenv("OPENAI_API_KEY")
 
@@ -30,7 +30,10 @@ client = OpenAI(
 # ==========================================
 
 chroma_client = chromadb.PersistentClient(
-    path="./chroma_db"
+    path=os.getenv(
+        "CHROMA_DB_PATH",
+        os.path.join(os.path.dirname(__file__), "chroma_db")
+    )
 )
 
 

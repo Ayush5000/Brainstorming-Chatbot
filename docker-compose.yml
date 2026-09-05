@@ -3,7 +3,7 @@ services:
   backend:
     build:
       context: .
-      dockerfile: backend/Dockerfile
+      dockerfile: backend/dockerfile
 
     container_name: brainstorming-backend
 
