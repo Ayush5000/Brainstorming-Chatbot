@@ -1,0 +1,190 @@
+BRAINSTORMING FUNDAMENTALS
+
+Brainstorming is a creative problem-solving process used to
+generate many possible ideas around a specific topic, problem,
+goal, user need or opportunity.
+
+A good brainstorming process should not immediately jump to
+random project ideas. It should first understand the topic or
+problem and then explore different angles.
+
+The basic process is:
+
+1. Define the topic or problem.
+2. Understand the users and their needs.
+3. Explore the current situation and existing solutions.
+4. Identify gaps and opportunities.
+5. Generate multiple possible approaches.
+6. Combine, modify or challenge ideas.
+7. Evaluate promising ideas.
+8. Improve the strongest ideas.
+
+IMPORTANT BRAINSTORMING PRINCIPLE
+
+Brainstorming should be anchored around a topic, problem or goal.
+
+For example:
+
+Topic:
+College student productivity.
+
+Possible exploration areas:
+
+- What problems do students face?
+- Why do these problems happen?
+- What solutions already exist?
+- What is missing from existing solutions?
+- What could be automated?
+- What could AI improve?
+- What completely different approaches could work?
+- What assumptions can be challenged?
+
+The answers to these questions become the raw material
+for generating ideas.
+
+PROBLEM EXPLORATION
+
+Useful problem exploration questions include:
+
+- What is the biggest difficulty?
+- Who experiences the problem?
+- When does the problem happen?
+- Why does the problem happen?
+- What makes the problem difficult?
+- What are users currently doing?
+- What is frustrating about current solutions?
+- What part of the process is inefficient?
+- What part is expensive, slow or complicated?
+
+USER-CENTERED BRAINSTORMING
+
+Ideas should consider the people affected by the problem.
+
+Explore:
+
+- Who is the target user?
+- What does the user want?
+- What does the user struggle with?
+- What does the user currently use?
+- What would make the experience easier?
+- What would save time?
+- What would reduce effort?
+- What would create more value?
+
+EXISTING SOLUTIONS
+
+Before generating ideas, understand existing solutions.
+
+Explore:
+
+- What solutions already exist?
+- What do they do well?
+- What do they do poorly?
+- What important need remains unsolved?
+- What users still complain about?
+- What part of the experience can be improved?
+
+OPPORTUNITY IDENTIFICATION
+
+An opportunity is a useful gap between the current situation
+and a better possible situation.
+
+Look for:
+
+- unmet user needs
+- inefficient processes
+- expensive processes
+- repetitive tasks
+- confusing experiences
+- inaccessible services
+- unused data
+- opportunities for automation
+- opportunities for personalization
+- opportunities created by new technology
+
+IDEA GENERATION
+
+Strong ideas should be:
+
+- relevant to the topic
+- connected to a real problem
+- meaningfully different from each other
+- understandable
+- feasible enough to explore
+- capable of creating useful value
+
+Do not generate random ideas only to increase the number of ideas.
+
+IDEA COMBINATION
+
+Two or more ideas can sometimes be combined.
+
+Ask:
+
+- Can two approaches work together?
+- Can an existing solution be combined with a new technology?
+- Can two user needs be solved by one system?
+- Can one idea become a feature of another?
+
+WHAT-IF THINKING
+
+"What if" questions help break normal assumptions.
+
+Examples:
+
+- What if the user did not have to perform this step?
+- What if this process were completely automated?
+- What if the solution were designed for beginners?
+- What if the solution had to work with almost no budget?
+- What if the solution had to work offline?
+- What if the solution had to serve thousands of users?
+- What if AI handled the repetitive parts?
+
+CONSTRAINT-BASED BRAINSTORMING
+
+Constraints can create better ideas.
+
+Examples:
+
+- limited budget
+- limited time
+- limited hardware
+- limited internet access
+- beginner users
+- small team
+- privacy requirements
+- scalability requirements
+
+A constraint should be treated as a design condition rather
+than simply an obstacle.
+
+EVALUATING IDEAS
+
+Promising ideas can be evaluated using:
+
+Innovation:
+How different or novel is the idea?
+
+Feasibility:
+How realistic is it to build?
+
+Impact:
+How valuable could it be for users?
+
+Difficulty:
+How difficult would implementation be?
+
+A strong idea does not necessarily have the highest innovation.
+A balanced idea with good impact and feasibility can be stronger.
+
+BRAINSTORMING OUTPUT
+
+A useful brainstorming result should contain:
+
+- generated ideas
+- short explanation of each idea
+- strongest ideas
+- evaluation
+- weaknesses
+- improvements
+- possible next steps

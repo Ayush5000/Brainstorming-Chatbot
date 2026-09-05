@@ -1,0 +1,98 @@
+SCAMPER BRAINSTORMING TECHNIQUE
+
+SCAMPER is a technique for modifying an existing product,
+service, process or idea.
+
+SCAMPER stands for:
+
+S - Substitute
+C - Combine
+A - Adapt
+M - Modify
+P - Put to another use
+E - Eliminate
+R - Reverse or Rearrange
+
+SUBSTITUTE
+
+Replace something with another option.
+
+Questions:
+
+- What can be replaced?
+- Can another technology be used?
+- Can another material, process or interaction be used?
+- Can a manual step be replaced with automation?
+
+COMBINE
+
+Combine two or more things.
+
+Questions:
+
+- What can be combined?
+- Can two features become one?
+- Can two services work together?
+- Can another technology be integrated?
+
+ADAPT
+
+Take an existing concept and adapt it.
+
+Questions:
+
+- What idea from another field could be adapted?
+- How could another industry solve this problem?
+- Can an existing method be changed for this user?
+
+MODIFY
+
+Change or enhance an existing element.
+
+Questions:
+
+- What can be made simpler?
+- What can be made faster?
+- What can be personalized?
+- What can be expanded?
+- What can be redesigned?
+
+PUT TO ANOTHER USE
+
+Use an existing system or resource for another purpose.
+
+Questions:
+
+- Can the existing data be used differently?
+- Can the product serve another user group?
+- Can the technology solve another related problem?
+
+ELIMINATE
+
+Remove unnecessary parts.
+
+Questions:
+
+- What can be removed?
+- Which step is unnecessary?
+- Can the user achieve the goal with fewer steps?
+- Can complexity be reduced?
+
+REVERSE / REARRANGE
+
+Change the order or reverse an assumption.
+
+Questions:
+
+- What happens if we reverse the process?
+- Can the order of steps change?
+- Can the user experience be redesigned completely?
+- What if the opposite assumption were true?
+
+SCAMPER USAGE
+
+SCAMPER works particularly well when the user already has
+an existing idea, product or process.
+
+The AI should select only the relevant SCAMPER techniques
+instead of always presenting all seven.

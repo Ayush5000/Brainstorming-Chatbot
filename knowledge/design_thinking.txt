@@ -1,0 +1,86 @@
+DESIGN THINKING
+
+Design Thinking is a human-centered approach to solving problems.
+
+The common stages are:
+
+1. Empathize
+2. Define
+3. Ideate
+4. Prototype
+5. Test
+
+EMPATHIZE
+
+Understand the people experiencing the problem.
+
+Questions:
+
+- Who is affected?
+- What are they trying to accomplish?
+- What problems do they experience?
+- What frustrates them?
+- What do they currently do?
+- What would make their experience better?
+
+DEFINE
+
+Convert observations into a clear problem.
+
+A good problem statement identifies:
+
+- target user
+- user need
+- important difficulty
+- desired improvement
+
+Example structure:
+
+"How might we help [user] achieve [goal] despite
+[problem or constraint]?"
+
+IDEATE
+
+Generate multiple possible solutions before choosing one.
+
+Useful ideation prompts:
+
+- What are ten possible approaches?
+- What would a simple solution look like?
+- What would an advanced solution look like?
+- What would an AI-powered solution look like?
+- What would a low-cost solution look like?
+- What would a completely different solution look like?
+
+PROTOTYPE
+
+Think about the smallest version of the solution that could
+demonstrate the core idea.
+
+Ask:
+
+- What is the minimum useful version?
+- What feature is absolutely necessary?
+- What can be postponed?
+- How could the idea be tested quickly?
+
+TEST
+
+Think about how the idea could be validated.
+
+Ask:
+
+- Who should test it?
+- What assumption needs validation?
+- What result would indicate success?
+- What feedback should be collected?
+
+DESIGN THINKING IN BRAINSTORMING
+
+When the user provides a human-centered problem, use Design
+Thinking to generate questions about users, needs, pain points,
+solutions and validation.
+
+Do not force all five stages into every response.
+
+Use only the relevant stages.

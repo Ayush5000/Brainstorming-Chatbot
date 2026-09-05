@@ -1,0 +1,54 @@
+FIRST PRINCIPLES THINKING
+
+First principles thinking means breaking a problem down into
+its fundamental facts and rebuilding the solution from those
+facts.
+
+Instead of copying how existing solutions work, ask why each
+part exists.
+
+PROCESS
+
+1. Define the problem.
+2. Identify assumptions.
+3. Separate facts from assumptions.
+4. Break the problem into fundamental parts.
+5. Question unnecessary constraints.
+6. Rebuild a solution from the fundamentals.
+
+USEFUL QUESTIONS
+
+- What is the actual problem?
+- What do we know for certain?
+- Which parts are assumptions?
+- Why does the current process work this way?
+- Does this step really need to exist?
+- What is the simplest possible solution?
+- If we designed this from zero, what would we do?
+- Which constraints are real and which are inherited?
+
+EXAMPLE
+
+Suppose the problem is:
+
+"Students spend too much time creating study plans."
+
+Instead of copying existing planner applications,
+break the problem down:
+
+- Students need to know what to study.
+- Students have limited available time.
+- Priorities change.
+- Progress changes.
+- A static plan can become outdated.
+
+This may lead to an adaptive study planning system rather
+than another simple calendar application.
+
+FIRST PRINCIPLES IN BRAINSTORMING
+
+Use this framework when the user wants a fundamentally different
+approach or when existing solutions appear repetitive.
+
+The goal is to discover opportunities that are hidden by
+assumptions about how the problem is normally solved.

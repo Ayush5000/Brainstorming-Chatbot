@@ -1,0 +1,59 @@
+REVERSE BRAINSTORMING
+
+Reverse brainstorming is a technique where the normal goal
+is reversed.
+
+Instead of asking:
+
+"How can we solve this problem?"
+
+Ask:
+
+"How could we make this problem worse?"
+
+The purpose is not to actually create harm. The purpose is to
+discover hidden causes, weaknesses and assumptions.
+
+PROCESS
+
+1. Define the problem.
+2. Reverse the goal.
+3. Generate ways the situation could become worse.
+4. Identify the causes behind those possibilities.
+5. Reverse those causes into possible solutions.
+
+Example:
+
+Normal goal:
+Improve student productivity.
+
+Reverse question:
+What would make student productivity even worse?
+
+Possible observations:
+
+- confusing schedules
+- too many notifications
+- difficult interfaces
+- no personalization
+- excessive manual planning
+
+These observations can then be transformed into solution
+opportunities.
+
+USEFUL QUESTIONS
+
+- What would make this experience worse?
+- What would make users abandon the solution?
+- What would create unnecessary effort?
+- What would make the process confusing?
+- What would make the system unusable?
+- Which assumptions are causing the problem?
+
+Reverse brainstorming is useful for:
+
+- discovering weaknesses
+- identifying hidden problems
+- improving existing products
+- finding overlooked opportunities
+- stress-testing ideas
