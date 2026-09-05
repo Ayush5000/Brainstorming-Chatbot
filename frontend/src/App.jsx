@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import { useState } from "react";
+
 
 const API_URL = import.meta.env.VITE_API_URL || "https://brainstorming-chatbot.onrender.com";
 
